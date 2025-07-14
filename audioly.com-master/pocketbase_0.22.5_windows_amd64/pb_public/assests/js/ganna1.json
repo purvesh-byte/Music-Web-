@@ -1,0 +1,183 @@
+{
+    "current_playlist":[],
+    "cardbox":
+   [
+    {"songsbox":"fan favourite",
+"songscards":[
+    {"id":0,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"itni si baat",
+        "album_name":"Sam Bahadur",
+        "singers":"",
+        "image_source":"assests/images/itni si baat.jpg",
+        "quality":{"low":"assests/songs/itnisibaat.mp3","medium":"","high":""},
+        "release_date":"date"      
+        },
+    {
+       "id":1,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Tum Ho",
+        "album_name":"Rockstar",
+        "singers":"",
+        "image_source":"assests/images/tumho.jpg",
+        "quality":{"low":"assests/songs/tum-ho.mp3","medium":"","high":""},
+        "release_date":"date"    
+       },
+    {
+        "id":2,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"tera chehra",
+        "album_name":"Sanam teri kasam",
+        "singers":"",
+        "image_source":"assests/images/sanamterikasam.jpg",
+        "quality":{"low":"assests/songs/tera-chehra.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+       "id":3,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Hoshwalon Khabar Kya",
+        "album_name":"Sarfarosh",
+        "singers":"",
+        "image_source":"assests/images/hoshwalon-kya-khabar.jpg",
+        "quality":{"low":"assests/songs/hoshwalon-ko-khabar-kya.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":4,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Toch Chandrama Nabhant",
+        "album_name":"Sudhir Phadke",
+        "singers":"",
+        "image_source":"assests/images/tochchandrama.jpg",
+        "quality":{"low":"assests/songs/toch-chandrama.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":5,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Kahan Ho Tum Chale Aao",
+        "album_name":"encore",
+        "singers":"",
+        "image_source":"assests/images/kahanhotum.jpg",
+        "quality":{"low":"assests/songs/Kahan Ho Tum Chale Aao.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":6,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Phir Le Aya Dil ",
+        "album_name":"Barfi",
+        "singers":"",
+        "image_source":"assests/images/barfi.jpg",
+        "quality":{"low":"assests/songs/Phir Le Aya Dil.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+        "id":7,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Guncha koi mere naam kar gaya",
+        "album_name":"Main, Meri Patni Aur Woh",
+        "singers":"",
+        "image_source":"assests/images/guncha.jpg",
+        "quality":{"low":"assests/songs/GUNCHA KOI MERE NAM KAR GAYA.mp3","medium":"","high":""},
+        "release_date":"date"
+    }
+]
+},
+{"songsbox":"new  releases",
+"songscards":[
+    {"id":0,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"paro",
+        "album_name":"pyaar ka panchnaman 2",
+        "singers":"",
+        "image_source":"assests/images/ppk2.jpg",
+        "quality":{"low":"assests/songs/paro.mp3","medium":"","high":""},
+        "release_date":"date"      
+        },
+    {
+       "id":1,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"jiyo re bahubali",
+        "album_name":"bahubali 2",
+        "singers":"",
+        "image_source":"assests/images/bahubali.jpg",
+        "quality":{"low":"assests/songs/jiyorebahubali.mp3","medium":"","high":""},
+        "release_date":"date"    
+       },
+    {
+        "id":2,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"hamsafar",
+        "album_name":"badrinath ki dhulania",
+        "singers":"",
+        "image_source":"assests/images/hamsafar.jpg",
+        "quality":{"low":"assests/songs/hamsafar.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+       "id":3,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"ik vaari aa",
+        "album_name":"raabta",
+        "singers":"",
+        "image_source":"assests/images/ik_vaari_aa.jpg",
+        "quality":{"low":"assests/songs/ikvaariaa.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":4,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"ladki kar gayi chull",
+        "album_name":"kapoor and sons",
+        "singers":"",
+        "image_source":"assests/images/hip_hop.jpg",
+        "quality":{"low":"assests/songs/kargyichull.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":5,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"let me love you",
+        "album_name":"encore",
+        "singers":"",
+        "image_source":"assests/images/letmeloveu.jpg",
+        "quality":{"low":"assests/songs/letmeloveu.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":6,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"raabta",
+        "album_name":"raabta",
+        "singers":"",
+        "image_source":"assests/images/rabta.jpg",
+        "quality":{"low":"assests/songs/raabta.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+        "id":7,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"shape of you",
+        "album_name":"shape of you",
+        "singers":"",
+        "image_source":"assests/images/shape_of_you.jpg",
+        "quality":{"low":"assests/songs/shapeofyou.mp3","medium":"","high":""},
+        "release_date":"date"
+    }
+]
+}
+
+]
+}

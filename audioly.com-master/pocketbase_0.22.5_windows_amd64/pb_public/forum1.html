@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stylish HTML Forum</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://cdn2.songstuff.com/uploads/monthly_2017_12/ABCDB055-0258-4689-8F17-D24A5B682D74.jpeg.0dd918481a68564a0e53ada8bf400fb6.jpeg'); /* Add your image URL here */
+            background-color: #f3f3f3;
+            background-size: cover; /* Adjust as needed */
+            background-position: center; /* Adjust as needed */
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+        }
+        h1 {
+            color: #333;
+        }
+        .forum-post {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Audioly Forum</h1>
+
+        <!-- Create a new post -->
+        <div>
+            <h2>Create a new post</h2>
+            <textarea id="newPost" rows="4" placeholder="Type your message here"></textarea>
+            <button onclick="addPost()">Post</button>
+        </div>
+
+        <!-- List of forum posts -->
+        <div id="postList">
+            <!-- Example posts (replace with JavaScript-generated content) -->
+            <div class="forum-post">
+                <p>This is the first post. It's an example post.</p>
+            </div>
+            <div class="forum-post">
+                <p>This is the second post. Feel free to add more posts.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function addPost() {
+            const newPostText = document.getElementById("newPost").value;
+            const postList = document.getElementById("postList");
+
+            if (newPostText.trim() !== "") {
+                const postDiv = document.createElement("div");
+                postDiv.className = "forum-post";
+                postDiv.innerHTML = `<p>${newPostText}</p>`;
+                postList.appendChild(postDiv);
+                document.getElementById("newPost").value = "";
+            }
+        }
+    </script>
+</body>
+</html>

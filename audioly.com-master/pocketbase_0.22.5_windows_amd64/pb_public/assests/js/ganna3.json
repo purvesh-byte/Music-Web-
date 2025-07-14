@@ -1,0 +1,183 @@
+{
+    "current_playlist":[],
+    "cardbox":
+   [
+    {"songsbox":"fan favourite",
+"songscards":[
+    {"id":0,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Tu Sukh Karta Tu Dukh Harta",
+        "album_name":"Ashtavinayak",
+        "singers":"",
+        "image_source":"assests/images/tushukh.jpg",
+        "quality":{"low":"assests/songs/Tu Sukh Karta Tu Dukh Harta.mp3","medium":"","high":""},
+        "release_date":"date"      
+        },
+    {
+       "id":1,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Maze Maher Pandhari",
+        "album_name":"Bhimsen Joshi",
+        "singers":"",
+        "image_source":"assests/images/bhim.jpg",
+        "quality":{"low":"assests/songs/Maze Maher Pandhari.mp3","medium":"","high":""},
+        "release_date":"date"    
+       },
+    {
+        "id":2,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Vithoo Mauli Tu",
+        "album_name":"Sudhir Phadke",
+        "singers":"",
+        "image_source":"assests/images/Vithoo.jpg",
+        "quality":{"low":"assests/songs/Vithoo Mauli Tu.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+       "id":3,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Abhir Gulal Udhalit Rang",
+        "album_name":"Jitendra Abhisheki",
+        "singers":"",
+        "image_source":"assests/images/jitendra.jpg",
+        "quality":{"low":"assests/songs/Abhir Gulal Udhalit Rang.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":4,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Ramache Bhajan",
+        "album_name":"Bhimsen Joshi",
+        "singers":"",
+        "image_source":"assests/images/bhim1.jpg",
+        "quality":{"low":"assests/songs/Ramache Bhajan.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":5,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Sukhkarta Dukhharta",
+        "album_name":"Lata Mangeshkar",
+        "singers":"",
+        "image_source":"assests/images/sukhkarta.jpg",
+        "quality":{"low":"assests/songs/Sukhkarta Dukhharta.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":6,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Uthi Shrirama Pahat Zali",
+        "album_name":"Asha Bhosale",
+        "singers":"",
+        "image_source":"assests/images/asha.jpg",
+        "quality":{"low":"assests/songs/Uthi Shrirama Pahat Zali.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+        "id":7,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"Adhik Dekhane Tari Nirantan Pahane",
+        "album_name":"Bhimsen Joshi",
+        "singers":"",
+        "image_source":"assests/images/bhim1.jpg",
+        "quality":{"low":"assests/songs/Adhik Dekhane Tari Nirantan Pahane.mp3","medium":"","high":""},
+        "release_date":"date"
+    }
+]
+},
+{"songsbox":"new  releases",
+"songscards":[
+    {"id":0,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"paro",
+        "album_name":"pyaar ka panchnaman 2",
+        "singers":"",
+        "image_source":"assests/images/ppk2.jpg",
+        "quality":{"low":"assests/songs/paro.mp3","medium":"","high":""},
+        "release_date":"date"      
+        },
+    {
+       "id":1,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"jiyo re bahubali",
+        "album_name":"bahubali 2",
+        "singers":"",
+        "image_source":"assests/images/bahubali.jpg",
+        "quality":{"low":"assests/songs/jiyorebahubali.mp3","medium":"","high":""},
+        "release_date":"date"    
+       },
+    {
+        "id":2,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"hamsafar",
+        "album_name":"badrinath ki dhulania",
+        "singers":"",
+        "image_source":"assests/images/hamsafar.jpg",
+        "quality":{"low":"assests/songs/hamsafar.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+       "id":3,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"ik vaari aa",
+        "album_name":"raabta",
+        "singers":"",
+        "image_source":"assests/images/ik_vaari_aa.jpg",
+        "quality":{"low":"assests/songs/ikvaariaa.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":4,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"ladki kar gayi chull",
+        "album_name":"kapoor and sons",
+        "singers":"",
+        "image_source":"assests/images/hip_hop.jpg",
+        "quality":{"low":"assests/songs/kargyichull.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":5,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"let me love you",
+        "album_name":"encore",
+        "singers":"",
+        "image_source":"assests/images/letmeloveu.jpg",
+        "quality":{"low":"assests/songs/letmeloveu.mp3","medium":"","high":""},
+        "release_date":"date"},
+    {
+       "id":6,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"raabta",
+        "album_name":"raabta",
+        "singers":"",
+        "image_source":"assests/images/rabta.jpg",
+        "quality":{"low":"assests/songs/raabta.mp3","medium":"","high":""},
+        "release_date":"date"
+    },
+    {
+        "id":7,
+        "playlist_type":false,
+        "playlist":null,
+        "song_name":"shape of you",
+        "album_name":"shape of you",
+        "singers":"",
+        "image_source":"assests/images/shape_of_you.jpg",
+        "quality":{"low":"assests/songs/shapeofyou.mp3","medium":"","high":""},
+        "release_date":"date"
+    }
+]
+}
+
+]
+}
